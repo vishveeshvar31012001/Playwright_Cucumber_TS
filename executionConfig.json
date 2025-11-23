@@ -1,0 +1,12 @@
+{
+    "env":"IT",
+    "browser":"chromium",
+    "headless":true,
+    "feature":"",
+    "scenarioName":"",
+    "testTag":"",
+    "recordVideo":"",
+    "releaseName":"Jan_release_01",
+    "cycleID":"AUTO-123"
+
+}
