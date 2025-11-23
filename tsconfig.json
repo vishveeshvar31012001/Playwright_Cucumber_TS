@@ -1,0 +1,15 @@
+ {
+      "compilerOptions": {
+        "typeRoots": [
+          "./node_modules/@types",
+          "./src/helper/types"
+        ],
+        "resolveJsonModule": true,
+        "allowImportingTsExtensions": true,
+        "noEmit": true // or "emitDeclarationOnly": true
+      },
+      "include": [
+        "src/**/*.ts",
+        "src/**/*.json" // Ensure JSON files are included in the compilation
+      ],
+    }
