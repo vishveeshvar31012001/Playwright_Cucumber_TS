@@ -5,7 +5,7 @@
     "feature":"",
     "scenarioName":"",
     "testTag":"",
-    "recordVideo":"",
+    "recordVideo":"ON",
     "releaseName":"Jan_release_01",
     "cycleID":"AUTO-123"
 
