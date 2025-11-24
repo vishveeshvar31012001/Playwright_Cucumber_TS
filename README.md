@@ -20,3 +20,6 @@ Cucumber is a popular BBD tool, which help stackholders and non-tech people to c
 * **npm install playwright** to install all the browser
 * **npm run test** to execute the tests
 * User **executionCOnfig.json** to run the particular feature or scenario or tag
+#### Sample report
+[Execution-Report.zip](https://github.com/user-attachments/files/23700946/Execution-Report.zip)
+
