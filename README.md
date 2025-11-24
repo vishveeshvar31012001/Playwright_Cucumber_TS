@@ -1,5 +1,5 @@
 # Playwright_Cucumber_TS
-Cucumber is a popular BBD tool, which help stackholders and non-tech people to collabrate on defining and testing application requirements in human readable format.Typescript is superset of Javascript which has static type, we can catch error in compile time, it is easy to catch the error before running. By combining both we can create and build reliable and maintable tests.
+Cucumber is a popular BBD tool, which help stockholders and non-tech people to collaborate on defining and testing application requirements in human readable format. TypeScript is superset of JavaScript which has static type, we can catch error in compile time, it is easy to catch the error before running. By combining both we can create and build reliable and maintain tests.
 ### Feature
 * Awesome report with screeshot, video and log
 * Execute script in mutiple environment
