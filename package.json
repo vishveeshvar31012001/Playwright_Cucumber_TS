@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pretest": "npx ts-node src/helper/init.ts",
+    "pretest": "npx ts-node src/utils/fileHandle.ts",
     "test": "cucumber-js --config=config/cucumber.js || npx ts-node src/helper/report.ts",
     "posttest": "npx ts-node src/helper/report.ts",
     "test:failure": "cucumber-js -p rerun @rerun.txt || npx ts-node src/helper/report.ts"
